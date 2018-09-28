@@ -12,6 +12,7 @@ There is no requirement that you host your project under the SendGrid GitHub org
 
 * Submit an issue that describes the solution that you’d like to work on.
 * Our DX team will review and comment on the issue.
+* The DX team will approve the solution to be part of Hacktoberfest
 * Start coding.
 
 # Swag & Recognition
