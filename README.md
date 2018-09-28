@@ -23,4 +23,4 @@ As an additional reward, we’d love to write a blog post about your project and
 
 # Questions?  Need help?
 
-Open an [issue](link_to_create_a_issue) or email dx@sendgrid.com.
+Open an [issue](https://github.com/sendgrid/hacktoberfest/issues/new) or email dx@sendgrid.com.
