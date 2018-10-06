@@ -2,7 +2,7 @@
 
 # Purpose
 
-We’re trying something new for Hacktoberfest 2018.  This repo is intended to be a place to share/capture/inspire new projects within SendGrid’s developer community.  The ideas here present an opportunity for developers who want to work on a bigger project.
+We’re trying something new for [Hacktoberfest 2018](https://dx.sendgrid.com/hacktoberfest).  This repo is intended to be a place to share/capture/inspire new projects within SendGrid’s developer community.  The ideas here present an opportunity for developers who want to work on a bigger project.
 
 To be considered as part of Hacktoberfest, you will need to publish the project under an open source license.
 
