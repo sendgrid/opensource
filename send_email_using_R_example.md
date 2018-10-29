@@ -74,9 +74,9 @@ Customize formatting using HTML
 
 For example purpose, replace the body variable above with the following to generate an HTML-styled email.
 
-	body = paste(“<p>Dear Tim,</p>”,
-	“<p>Here are the latest results from your NPS survey:</p>”,
-	“<ul><li>The highest NPS score this month was <strong>”, max.value, “</strong> for <strong>”, max.label, “</strong>.</li>”,
-	“<li>The lowest NPS score this month was <strong>”, min.value, “</strong> for <strong>”, min.label,”</strong></a>.</ul>”,
-	“<p>Click <a href=’https://app.displayr.com/Dashboard?id=53c67902-3f3f-4c06-bcfd-d6c977d0ef99′>here</a> for the full report.</p>”,
-	“<p>Kind regards,<br />Tim</p>”)
+	body = paste(“<p>Dear User,</p>”,
+	“<p>Here are the latest results from your last programming test:</p>”,
+	“<ul><li>The highest test score this month was <strong>”, max.value, “</strong> for <strong>”, max.label, “</strong>.</li>”,
+	“<li>The lowest test score this month was <strong>”, min.value, “</strong> for <strong>”, min.label,”</strong></a>.</ul>”,
+	“<p>Click <a href=’https://xxxxxxxxx.xxxxxxxxxx.xxxxxxxxxxx′>here</a> for the full report.</p>”,
+	“<p>Kind regards,<br />User</p>”)
