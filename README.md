@@ -1,14 +1,45 @@
-# Hacktoberfest 2018 Ideas
+# Open Source @ SendGrid
 
 # Purpose
 
-We’re trying something new for [Hacktoberfest 2018](https://dx.sendgrid.com/hacktoberfest).  This repo is intended to be a place to share/capture/inspire new projects within SendGrid’s developer community.  The ideas here present an opportunity for developers who want to work on a bigger project.
+Originally, this repository existed for Hacktoberfest 2018.  Yet, we thought that it would be great to have a general repository to aggregate our open source efforts in one place.  We can also use this for capturing new ideas that don't fit into one of our existing repositories.
 
-To be considered as part of Hacktoberfest, you will need to publish the project under an open source license.
+# Our Open Source Projects
 
-There is no requirement that you host your project under the SendGrid GitHub organization.  
+## REST Libraries
 
-# How Do I Use This Repo?
+* [C# Library](https://github.com/sendgrid/sendgrid-csharp)
+* [Go Library](https://github.com/sendgrid/sendgrid-go)
+* [Java Library](https://github.com/sendgrid/sendgrid-java)
+* [NodeJS Library](https://github.com/sendgrid/sendgrid-nodejs)
+* [PHP Library](https://github.com/sendgrid/sendgrid-php)
+* [Python Library](https://github.com/sendgrid/sendgrid-python)
+* [Ruby Library](https://github.com/sendgrid/sendgrid-ruby)
+
+## SMTP Libraries
+
+* [C# SMTP Library](https://github.com/sendgrid/smtpapi-csharp)
+* [Go SMTP Library](https://github.com/sendgrid/smtpapi-go)
+* [Java SMTP Library](https://github.com/sendgrid/smtpapi-java)
+* [NodeJS SMTP Library](https://github.com/sendgrid/smtpapi-nodejs)
+* [PHP SMTP Library](https://github.com/sendgrid/smtpapi-php)
+* [Python SMTP Library](https://github.com/sendgrid/smtpapi-python)
+* [Ruby SMTP Library](https://github.com/sendgrid/smtpapi-ruby)
+
+## Front End
+
+* [SendGrid UI Cpmonents](https://github.com/sendgrid/ui-components)
+
+## Email Helpers
+
+* [email-templates](https://github.com/sendgrid/email-templates)
+* [WordPress Plugin](https://github.com/sendgrid/wordpress)
+
+## Operations
+
+* [krampus](https://github.com/sendgrid/krampus)
+
+# How Else Can I Use This Repo?
 
 * Submit an issue that describes the solution that you’d like to work on.
 * Our DX team will review and comment on the issue.
