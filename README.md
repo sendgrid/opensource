@@ -32,7 +32,7 @@ Originally, this repository existed for Hacktoberfest 2018.  Yet, we thought tha
 * [PHP HTTP Client](https://github.com/sendgrid/php-http-client)
 * [C# HTTP Client](https://github.com/sendgrid/csharp-http-client)
 * [Java HTTP Client](https://github.com/sendgrid/java-http-client)
-* [Ruby HTTP Client](https://github.com/sendgrid/ruby-http-clientt)
+* [Ruby HTTP Client](https://github.com/sendgrid/ruby-http-client)
 * [Go HTTP Client](https://github.com/sendgrid/rest)
 * [Node.js HTTP Client](https://github.com/sendgrid/nodejs-http-client)
 
